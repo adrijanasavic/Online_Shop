@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Online shop\u001b[D\u001b[D\u001b[S",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrijanasavic/Online_Shop.git"
+  },
+  "author": "Adrijana Savic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrijanasavic/Online_Shop/issues"
+  },
+  "homepage": "https://github.com/adrijanasavic/Online_Shop#readme"
+}
