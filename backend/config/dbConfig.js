@@ -1,5 +1,5 @@
-const MONGO_PASS = 'enter your password';
-const MONGODB_URL = `enter your MongoDB url`;
+const MONGO_PASS = 'admin123';
+const MONGODB_URL = `mongodb+srv://admin:${MONGO_PASS}@cluster0.nletj.mongodb.net/?retryWrites=true&w=majority`;
 
 const mongooseOptions = {
     useNewUrlParser: true,
